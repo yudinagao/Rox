@@ -1,4 +1,6 @@
 Engenheio de Dados - CSV/
+rox_partner_postgres_data/
+Rox_postgres_data
 *.csv
 *.zip
 *.sql
